@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/silkdom/silkdom.github.io/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![Image of login](https://github.com/silkdom/silkdom.github.io/tree/master/assets.rotman.JPG)
+![Image of login](https://github.com/silkdom/silkdom.github.io/tree/master/assets.rotman.png)
 
 ### Markdown
 
