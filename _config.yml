@@ -1,3 +1,12 @@
 title: Dom Silk
 logo: "/assets/logo.JPG?raw=true"
+
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  First description 
+  <br><br>
+  Second description 
+  <br><br>
+  <a href="https://www.linkedin.com/in/dominicsilk/">View My LinkedIn Profile</a> 
+  
 theme: jekyll-theme-minimal
+google_analytics: UA-167441035-1 # your Google Analytics tracking ID here
