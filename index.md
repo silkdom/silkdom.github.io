@@ -4,5 +4,6 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Corner Office](https://github.com/silkdom/Corner-Office)
+
 <img src="img/rotman.png?raw=true"/>
