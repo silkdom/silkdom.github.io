@@ -6,7 +6,9 @@
 
 ### [Thesis Publication (TaskGen)](https://github.com/silkdom/Thesis-Publication)
 
-<img src="img/Flow.png?raw=true"/>
+<p align="center">
+  <img src="img/Flow.png?raw=truee" alt="Flow"/>
+</p>
 
 My thesis "A decision-support framework for techno-economic-sustainability assessment of resource recovery alternatives" has been published in the Journal of Cleaner Production. This repo regards the software implementation of the framework (TaskGen). 
 
