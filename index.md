@@ -33,3 +33,6 @@ Using selenium to automatically book the best study room in the Rotman building 
 </p>
 
 My thesis "A decision-support framework for techno-economic-sustainability assessment of resource recovery alternatives" has been published in the Journal of Cleaner Production. This repo regards the software implementation of the framework (TaskGen).
+
+
+<link rel="shortcut icon" type="image/x-icon" href="img/coffee.ico">
