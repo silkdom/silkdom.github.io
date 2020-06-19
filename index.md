@@ -36,3 +36,5 @@ My thesis "A decision-support framework for techno-economic-sustainability asses
 
 
 <link rel="shortcut icon" type="image/x-icon" href="img/coffee.ico">
+
+<meta property='og:image' content='https://github.com/silkdom/silkdom.github.io/blob/master/img/A.jpg'/>
