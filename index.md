@@ -4,14 +4,14 @@
 
 ### Personal Projects 
 
-### [Corner Office](https://github.com/silkdom/Tattoo-GAN)
+### [Tattoo GAN](https://github.com/silkdom/Tattoo-GAN)
 
 <img src="img/tattoo-GAN.png?raw=true"/>
 
 Using GANs to create tattoo design ideas. 
 
 
-### [Corner Office](https://github.com/silkdom/Deblur)
+### [Deblur](https://github.com/silkdom/Deblur)
 
 <img src="img/Deblur.png?raw=true"/>
 
@@ -24,7 +24,7 @@ Fixing my crappy phtography with neural networks.
 
 Using selenium to automatically book the best study room in the Rotman building at 12:00:01 AM each day. 
 
-### Academic Projects
+### Academic Projects 
 
 ### [Thesis Publication (TaskGen)](https://github.com/silkdom/Thesis-Publication)
 
