@@ -13,9 +13,9 @@ Using GANs to create tattoo design ideas.
 
 ### [Corner Office](https://github.com/silkdom/Deblur)
 
-<img src="img/Deblur.png?raw=true"/>
+<img src="img/A.jpg?raw=true"/>
 
-Fixing my creappy phtography with neural networks. 
+Fixing my crappy phtography with neural networks. 
  
 
 ### [Corner Office](https://github.com/silkdom/Corner-Office)
