@@ -9,7 +9,7 @@
 <meta property='og:title' content='Silkdom Portfolio'/>
 <meta property='og:image' content='img/A.jpg'/>
 <meta property='og:description' content='tbdz'/>
-<meta property='og:url' content='https://silkdom.github.io/'/>
+<meta property='og:image' content='https://raw.githubusercontent.com/silkdom/silkdom.github.io/master/img/A.png'/>
 
 <img src="img/tattoo-GAN.png?raw=true"/>
 
@@ -38,4 +38,6 @@ Using selenium to automatically book the best study room in the Rotman building 
 </p>
 
 My thesis "A decision-support framework for techno-economic-sustainability assessment of resource recovery alternatives" has been published in the Journal of Cleaner Production. This repo regards the software implementation of the framework (TaskGen).
+
+<meta property='og:image' content='https://raw.githubusercontent.com/silkdom/silkdom.github.io/master/img/A.png'/>
 
