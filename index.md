@@ -3,7 +3,7 @@
 ---
 
 ### Personal Projects 
-
+<img src="img/A.jpg" style="display:none"/>
 ### [Tattoo GAN](https://github.com/silkdom/Tattoo-GAN)
 
 <img src="img/tattoo-GAN.png?raw=true"/>
