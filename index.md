@@ -7,8 +7,8 @@
 ### [Tattoo GAN](https://github.com/silkdom/Tattoo-GAN)
 
 <meta property='og:title' content='Silkdom Portfolio'/>
-<meta property='og:image' content='img/A.jpg'/>
-<meta property='og:description' content='tbd'/>
+<meta property='og:image' content='img/A.jpg?raw=true'/>
+<meta property='og:description' content='tbdz'/>
 <meta property='og:url' content='https://silkdom.github.io/'/>
 
 <img src="img/tattoo-GAN.png?raw=true"/>
