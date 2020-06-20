@@ -11,7 +11,7 @@
 <meta property='og:description' content='tbdz'/>
 <meta property='og:image' content='https://silkdom.s3.us-east-2.amazonaws.com/A.png'/>
 
-<img src="img/tattoo-GAN.png?raw=true"/>
+[<img src="img/tattoo-GAN.png?raw=true"/>](https://github.com/silkdom/Tattoo-GAN)
 
 Using GANs to create tattoo design ideas. 
 
