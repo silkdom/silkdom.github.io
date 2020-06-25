@@ -6,7 +6,7 @@
 
 ### [Tattoo GAN](https://github.com/silkdom/Tattoo-GAN)
 
-[![View on GitHub](https://github.com/silkdom/Tattoo-GAN)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/silkdom/Tattoo-GAN)
 
 <meta property='og:title' content='Silkdom Portfolio'/>
 <meta property='og:image' content='img/A.jpg'/>
@@ -20,7 +20,7 @@ Using GANs to create tattoo design ideas. Write up TBC 22/6/2020
 ---
 ### [Deblur](https://github.com/silkdom/Deblur)
 
-[![View on GitHub](https://github.com/silkdom/Deblur)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/silkdom/Deblur)
 
 Fixing my crappy photography with neural networks. 
 
@@ -29,7 +29,7 @@ Fixing my crappy photography with neural networks.
 ---
 ### [Corner Office](https://github.com/silkdom/Corner-Office)
 
-[![View on GitHub](https://github.com/silkdom/Corner-Office)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/silkdom/Corner-Office)
 
 Using selenium to automatically book the best study room in the Rotman building at 12:00:01 AM each day. 
 
@@ -40,7 +40,7 @@ Using selenium to automatically book the best study room in the Rotman building 
 
 ### [Thesis Publication (TaskGen)](https://github.com/silkdom/Thesis-Publication)
 
-[![View on GitHub](https://github.com/silkdom/Thesis-Publication)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/silkdom/Thesis-Publication)
 
 My thesis "A decision-support framework for techno-economic-sustainability assessment of resource recovery alternatives" has been published in the Journal of Cleaner Production. This repo regards the software implementation of the framework (TaskGen).
 
