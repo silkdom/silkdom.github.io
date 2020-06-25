@@ -22,7 +22,7 @@ Using GANs to create tattoo design ideas. Write up TBC 22/6/2020
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/silkdom/Deblur) [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/github/silkdom/Deblur/blob/master/DeblurGANv2_Demo.ipynb#scrollTo=fU0aGtD4Nl4W)
 
-<div style="text-align: justify">Fixing my crappy photography with neural networks, via implementation of DeblurGANv2 and PULSE architectures (with varying success..!). Then streamline DeblurGANv2 testing process into an easily executable Colab notebook format.<br><br></div>
+<div style="text-align: justify">Fixing my crappy photography with neural networks, via implementation of DeblurGANv2 and PULSE architectures (with varying success..!). Then streamline DeblurGANv2 testing process into an easily executable Colab notebook format for accessible use.<br><br></div>
 
 <center><img src="img/Deblur.png"/></center>
 
