@@ -40,7 +40,7 @@ Using selenium to automatically book the best study room in the Rotman building 
 
 ### [Thesis Publication (TaskGen)](https://github.com/silkdom/Thesis-Publication)
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/silkdom/Thesis-Publication)
+[![Publication](https://img.shields.io/badge/Publication-Elsevier-orange)](https://www.sciencedirect.com/science/article/abs/pii/S0959652620319016) [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/silkdom/Thesis-Publication)
 
 My thesis "A decision-support framework for techno-economic-sustainability assessment of resource recovery alternatives" has been published in the Journal of Cleaner Production. This repo regards the software implementation of the framework (TaskGen).
 
