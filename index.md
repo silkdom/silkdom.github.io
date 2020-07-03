@@ -1,8 +1,8 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Personal Projects
+## Personal Projects
 
 ### [Tattoo GAN](https://github.com/silkdom/Tattoo-GAN)
 
@@ -36,7 +36,7 @@
 [<img src="img/rotman.png?raw=true"/>](https://github.com/silkdom/Corner-Office)
 
 ---
-### Academic Projects 
+## Academic Projects 
 
 ### [Thesis Publication (TaskGen)](https://github.com/silkdom/Thesis-Publication)
 
