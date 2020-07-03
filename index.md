@@ -31,7 +31,7 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/silkdom/Corner-Office)
 
-Using selenium to automatically book the best study room in the Rotman building at 12:00:01 AM each day. 
+<div style="text-align: justify">Using selenium to automatically book the best study room in the Rotman building at 12:00:01 AM each day.<br><br></div> 
 
 [<img src="img/rotman.png?raw=true"/>](https://github.com/silkdom/Corner-Office)
 
